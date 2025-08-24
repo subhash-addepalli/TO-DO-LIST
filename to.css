@@ -210,7 +210,7 @@ input[type="checkbox"]:checked::after {
 {
     .main {
         display: flex;
-        flex-direction: column-reverse;
+        flex-direction: column;
         align-items: center; 
         padding: 1rem;
     }
@@ -257,4 +257,5 @@ input[type="checkbox"]:checked::after {
     }
 
     
+
 }
